@@ -1,0 +1,12 @@
+node_modules/
+.env
+
+# Ignore the build directory
+/build/
+
+# Ignore the coverage directory
+/coverage/
+
+# Ignore the dist directory
+/dist/
+src/config/config.json
