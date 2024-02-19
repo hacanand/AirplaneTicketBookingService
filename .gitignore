@@ -9,4 +9,4 @@ node_modules/
 
 # Ignore the dist directory
 /dist/
-src/config/config.json
+ 
