@@ -4,6 +4,6 @@ const ValidationError = require("./validation-error");
 
 module.exports = {
   ValidationError,
-    ServiceError,
-    AppError,
+  ServiceError,
+  AppError,
 };
