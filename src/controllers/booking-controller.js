@@ -11,7 +11,7 @@ class BookingController {
       data: {
         subject: "this is a notification message from queue",
         content: "some queue will subscribe this",
-        recipientEmail: "noreply009@gmail.com",
+        recipientEmail: "noreply@gmail.com",
         NotificationTime: "2023-02-22T19:35:00",
       },
       service: "CREATE_TICKET",
